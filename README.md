@@ -19,3 +19,7 @@ and designed to assist a user by answering questions and performing basic tasks.
 4.speech_recognition                                                                                                                      
 5.wikipedia                                                                                                                               
 6.wolframalpha
+
+# TO Get Your Wolfram Client_ID - https://bit.ly/2D3Q6Hl
+# TO Install more voices(windows) - https://bit.ly/2G8PZhk
+# For more info on SpeechRecognition - https://pypi.org/project/SpeechRecogn...
